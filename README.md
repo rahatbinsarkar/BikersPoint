@@ -1,18 +1,17 @@
-# Bike-Management-System-Project-in-PHP
+# Bike-Management-System-Project-in-HTML CSS JS PHP
 
 For User :-
 
-USERNAME : test@gmail.com
+USERNAME : rahat sarkar736@gmail.com
 
-PASSWORD : Test@12345
+PASSWORD : rsrsrsrs
 
 For Admin Panel
 
-Open Your browser put inside browser “http://localhost/bikerental/admin”
+Open Your browser put inside browser “http://localhost/bikeservice/admin”
 
-USERNAME : admin
+USERNAME : Rahat
 
-PASSWORD : Test@12345
+PASSWORD : rs@12345
 
-DON'T FORGET TO CREATE A DATABASE NAMING "bikerental.sql" AND IMPORT THE SQL FILE AND RUN.
-WITHOUT THE DATABASE THE PROJECT WON'T RUN.
+
